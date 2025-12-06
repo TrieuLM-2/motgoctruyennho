@@ -27,13 +27,13 @@ nav_order: 6
 <p class="lang-vi">"Anh từng ngủ với bao nhiêu gã rồi?"</p>
 <p class="lang-en">“How many men have you been with?”</p>
 
-<p class="lang-vi">Ilya ngước lên đầy hứng thú từ cốc cà phê anh đang múc đường vào. Shane vừa buột miệng hỏi câu đó và giờ đang dán mắt vào đĩa trứng chần của mình. Tai cậu đỏ lựng lên rồi.</p>
+<p class="lang-vi">Ilya ngước lên đầy hứng thú từ cốc cà phê anh đang bỏ đường vào. Shane vừa buột miệng hỏi câu đó và giờ đang dán mắt vào đĩa trứng chần của mình. Tai cậu đỏ lựng lên rồi.</p>
 <p class="lang-en">Ilya glanced up with interest from the coffee mug he’d been spooning sugar into. Shane had blurted the question out and was now staring fixedly at his poached eggs. His ears were bright pink.</p>
 
 <p class="lang-vi">"Ý em là trong tuần này á?" Ilya bình thản hỏi.</p>
 <p class="lang-en">“This week, you mean?” Ilya asked calmly.</p>
 
-<p class="lang-vi">Shane ngước mắt lên, sự khó chịu tỏa ra từ cậu bao trùm khắp bàn ăn sáng như những cơn sóng hậm hực. "Không, đồ điên. Ý em là từ trước tới giờ ấy."</p>
+<p class="lang-vi">Shane ngước mắt lên, sự khó chịu từ cậu lan khắp bàn ăn sáng như những cơn sóng hậm hực. "Không, đồ điên. Ý em là từ trước tới giờ ấy."</p>
 <p class="lang-en">Shane turned his gaze up, his annoyance radiating across the breakfast table in grumpy waves. “No, asshole. I mean ever.”</p>
 
 <p class="lang-vi">Ilya nhấp một ngụm cà phê dài, mắt khóa chặt lấy mắt Shane qua vành cốc Ottawa Centaurs. Anh cực kỳ chậm rãi đặt cốc xuống bàn, ngả người ra sau ghế và hỏi: "Sao tự nhiên lại hỏi?"</p>
@@ -45,7 +45,7 @@ nav_order: 6
 <p class="lang-vi">"Lỡ anh không đếm thì sao."</p>
 <p class="lang-en">“Maybe I don’t keep track.”</p>
 
-<p class="lang-vi">Shane lườm anh cháy mặt, rồi quay lại tập trung vào mấy quả trứng. "Thôi bỏ đi."</p>
+<p class="lang-vi">Shane lườm anh cháy mắt, rồi quay lại tập trung vào mấy quả trứng. "Thôi bỏ đi."</p>
 <p class="lang-en">Shane glared at him, then turned his attention back to his eggs. “Never mind.”</p>
 
 <p class="lang-vi">Khóe môi Ilya nhếch lên. Anh để sự im lặng bao trùm giữa hai người, vừa đủ lâu để Shane có lẽ tin rằng Ilya sẽ bỏ qua chuyện này.</p>
@@ -78,7 +78,7 @@ nav_order: 6
 <p class="lang-vi">"Anh chưa bao giờ nói thế. Ý em là, chắc là có ngụ ý, nhưng mà—"</p>
 <p class="lang-en">“You never said that. I mean, it was implied, I guess, but—”</p>
 
-<p class="lang-vi">"Cậu ta là người đầu tiên." Ilya cắn nhẹ vào má trong, rồi bồi thêm, "Có khi cũng là người giỏi nhất nữa."</p>
+<p class="lang-vi">"Cậu ta là người đầu tiên." Ilya cắn nhẹ vào má trong, rồi bồi thêm, "Có khi cũng là người tuyệt nhất nữa."</p>
 <p class="lang-en">“He was the first.” Ilya bit the inside of his cheek, then added, “Possibly the best too.”</p>
 
 <p class="lang-vi">"Anh đúng là cái đồ khốn nạn to xác."</p>
@@ -90,7 +90,7 @@ nav_order: 6
 <p class="lang-vi">Ghế của Shane kêu cái két chói tai trên sàn bếp khi cậu bật dậy. Cậu chộp lấy cái đĩa của mình trên bàn và hầm hầm đi về phía bồn rửa bát. Ilya tiếp tục ung dung ăn sáng.</p>
 <p class="lang-en">Shane’s chair screeched across the kitchen floor as he stood up. He snatched his plate off the table and stormed off toward the sink. Ilya continued eating his breakfast.</p>
 
-<p class="lang-vi">"Em có phải người thứ hai không?" Shane hỏi, sau khi đã tráng xong cái đĩa.</p>
+<p class="lang-vi">"Em có phải người thứ hai không?" Shane hỏi, sau khi đã tráng xong đĩa.</p>
 <p class="lang-en">“Was I the second?” Shane asked, after he had finished rinsing his plate.</p>
 
 <p class="lang-vi">"Có 'cây hàng' to nhất á?"</p>
@@ -159,7 +159,7 @@ nav_order: 6
 <p class="lang-vi">"Gớm."</p>
 <p class="lang-en">“Yuck.”</p>
 
-<p class="lang-vi">Ilya để tay mình trượt từ vai Shane xuống ngực cậu. Shane lùi lại một bước nhỏ, và gần như thả lỏng người dựa vào anh. Ilya cúi đầu hôn lên cổ Shane, và cậu thả lỏng hơn nữa. "Chẳng ai quan trọng cả. Không còn nữa."</p>
+<p class="lang-vi">Ilya để tay mình trượt từ vai Shane xuống ngực cậu. Shane lùi lại một bước nhỏ, và gần như thả lỏng người dựa vào anh. Ilya cúi đầu hôn lên cổ Shane, và cậu thả lỏng hơn nữa. "Chẳng ai quan trọng cả. Giờ thì không nữa."</p>
 <p class="lang-en">Ilya let his hand slide off Shane’s shoulder and down his chest. Shane took a small step backward, and almost relaxed against him. Ilya dipped his head and kissed Shane’s neck, and Shane relaxed more. “None of them matter. Not anymore.”</p>
 
 <p class="lang-vi">Shane thở dài. "Em biết."</p>
@@ -174,7 +174,7 @@ nav_order: 6
 <p class="lang-vi">Ilya vòng tay kia ôm lấy cậu và giữ chặt khi anh dụi mặt vào mái tóc đen bóng mượt của Shane. Tóc cậu có mùi dầu gội đắt tiền. "Anh sẽ nhớ em lắm."</p>
 <p class="lang-en">Ilya wrapped his other arm around him and held him close as he nuzzled Shane’s dark, glossy hair. It smelled like expensive shampoo. “I will miss you.”</p>
 
-<p class="lang-vi">Shane thở hắt ra một hơi rõ to. "Anh đã sẵn sàng làm thêm một mùa giải như thế này nữa chưa?"</p>
+<p class="lang-vi">Shane thở hắt ra một hơi thật to. "Anh đã sẵn sàng làm thêm một mùa giải như thế này nữa chưa?"</p>
 <p class="lang-en">Shane exhaled loudly. “Are you ready to do another season of this?”</p>
 
 <p class="lang-vi">Tim Ilya hẫng một nhịp. Câu hỏi đó nghĩa là sao? "Lại một mùa giải thế nào cơ?"</p>
@@ -216,13 +216,13 @@ nav_order: 6
 <p class="lang-vi">"Em sẽ không kết thúc sự nghiệp bằng tin nhắn đâu."</p>
 <p class="lang-en">“I’m not ending my career via text.”</p>
 
-<p class="lang-vi">"Email vậy."</p>
+<p class="lang-vi">"Thì gửi email."</p>
 <p class="lang-en">“Email, then.”</p>
 
 <p class="lang-vi">"Em phải đi rồi."</p>
 <p class="lang-en">“I have to go.”</p>
 
-<p class="lang-vi">Lại một nụ hôn dài nữa, lần này bớt ngọt ngào hơn một chút. Gấp gáp hơn một chút. Đến khi họ dứt ra, Shane đã bị ép vào tường, và áo phông của Ilya bị kéo tốc lên đến ngực. Cả hai người đàn ông đều thở hổn hển, da dẻ ửng đỏ và hạ bộ đã "chào cờ" lửng lơ.</p>
+<p class="lang-vi">Lại một nụ hôn dài nữa, lần này bớt ngọt ngào hơn một chút. Gấp gáp hơn một chút. Đến khi họ dứt ra, Shane đã bị ép vào tường, và áo phông của Ilya bị vén lên tận ngực. Cả hai người đàn ông đều thở hổn hển, da dẻ ửng đỏ và hạ bộ đã "chào cờ" lửng lơ.</p>
 <p class="lang-en">Another long kiss, this one a little less sweet. A little more urgent. By the time they broke apart, Shane was pressed against a wall, and Ilya’s T-shirt was rucked up to his chest. Both men were breathing heavily, with flushed skin and semi-hard dicks.</p>
 
 <p class="lang-vi">"Em phải—" Shane nói lại lần nữa.</p>
